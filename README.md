@@ -140,12 +140,6 @@ This dashboard enables:
 
 ---
 
-## Project Files
-
-- `fleet management.pbix` → Main Power BI dashboard file  
-
----
-
 ## Conclusion
 
 This project demonstrates how Power BI can be used to turn complex fleet and logistics data into meaningful insights. It bridges the gap between operations and business strategy, helping organizations improve efficiency and profitability.
